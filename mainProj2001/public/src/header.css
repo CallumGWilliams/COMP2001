@@ -1,0 +1,41 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: dimgrey;
+    color: white;
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+
+.smallHeader {
+    padding:10px;
+    text-align: left;
+    background: dimgrey;
+    color: white;
+    font-size:10px;
+    font-family: Helvetica, sans-serif;
+}
+
+.photo {
+
+    padding: 185px;
+    text-align: center;
+    background-image: url("LibraryPhoto.jpg");
+
+
+
+
+}
+
+
+#btnOne{
+    width: 500px;
+    height: 50px;
+}
+#btnTwo{
+    width: 500px;
+    height: 50px;
+}
+#container{
+    text-align: center;
+}
